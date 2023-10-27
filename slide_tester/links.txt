@@ -1,0 +1,3 @@
+https://www.electroschematics.com/continuity-tester-differentiates-resistance/ - good design based on lm358
+https://www.instructables.com/Modern-Continuity-Tester/
+https://www.brighthubengineering.com/diy-electronics-devices/67224-build-yourself-a-simple-continuity-tester/
