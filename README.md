@@ -1,6 +1,6 @@
 # Microscope slide tester
 
-This is a small project done in collaboration with Igor Kraev from the Open University Microscope Ensuite. The device at hand is a simple continuity tester which is equipped with
+This is a small project done in collaboration with [Igor Kraev](https://uk.linkedin.com/in/igor-kraev-78a55821) from the Open University Microscope Suite. The device at hand is a simple continuity tester which is equipped with
 a battery holder and can be recharged.
 
 The protocol of operation:
