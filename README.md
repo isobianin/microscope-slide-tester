@@ -5,12 +5,12 @@ a battery holder and can be recharged.
 
 The protocol of operation:
 
-1. Take the electrode lid off
+1. Take the electrode lid off.
 2. Clean your electrodes with either distilled water, acetone or IPA to remove any dust particles.
 3. Press the slide against the electrodes. **If the front LED lights up, the side that is in contact with electrodes is conductive**.
 4. Mark the conductive side.
-5. Repeat steps 1-4 for as many slides as needed
-6. When done, close the electrode lid
+5. Repeat steps 1-4 for as many slides as needed.
+6. When done, close the electrode lid.
 
 The tester can be operated while being charged
 
