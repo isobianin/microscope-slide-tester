@@ -17,12 +17,12 @@ Components used:
 
 Resistors
 
-- 12 $$\Omega$$
-- 100 $$\Omega$$
-- 560 $$\Omega$$
-- 680 $$\Omega$$
-- 10k $$\Omega$$
-- 22k $$\Omega$$
+- 12 $\Omega$
+- 100 $\Omega$
+- 560 $\Omega$
+- 680 $\Omega$
+- 10k $\Omega$
+- 22k $\Omega$
 
 Diodes
 
