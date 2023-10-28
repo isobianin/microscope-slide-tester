@@ -762,7 +762,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 4043a38f-5ded-468e-a27c-b2c64143edcb)
   )
-  (text "Continuity\ntester" (at 243.84 57.15 0)
+  (text "Continuity\ntester" (at 245.11 55.88 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 745a33e1-917b-45d6-967f-312329b9e693)
   )
@@ -1093,7 +1093,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bedc87fe-7b02-49dd-b1d2-036c65f89b7f)
     (property "Reference" "J1" (id 0) (at 35.56 62.865 0))
-    (property "Value" "USB_A_Stacked" (id 1) (at 35.56 65.405 0))
+    (property "Value" "USB_B" (id 1) (at 35.56 65.405 0))
     (property "Footprint" "Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal" (id 2) (at 39.37 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1213,7 +1213,7 @@
       (reference "D4") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/bedc87fe-7b02-49dd-b1d2-036c65f89b7f"
-      (reference "J1") (unit 1) (value "USB_A_Stacked") (footprint "Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal")
+      (reference "J1") (unit 1) (value "USB_B") (footprint "Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal")
     )
     (path "/cc2c1985-993f-48d0-bedd-833f9dbf4f5d"
       (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm")
